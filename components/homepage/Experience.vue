@@ -17,14 +17,18 @@
       </div>
       <ul class="experience-box__list">
         <li class="experience-box__list-tem">
-          Designed and developed modern-looking, high-converting landing pages,
-          ads, and calls to action for in-house and client websites with HTML5,
-          WordPress, Twig, ACF, SASS, Javascript, and jQuery
+          Designed and built interactive tools with React, Javascript (ES5/ES6),
+          PHP, Twig, ACF, HTML, and SASS.
         </li>
         <li class="experience-box__list-tem">
+          Lead development of new websites and high-converting landing pages,
+          ads, and calls to action with a focus on performance and
+          accessibility.
+        </li>
+        <li>
           Collaborated with writers, marketers, and other developers to produce
-          new components and templates focused on improving the user experience
-          and increasing conversions
+          new tools, components, and templates focused on improving the user
+          experience and increasing conversions.
         </li>
       </ul>
     </div>
@@ -39,14 +43,14 @@
       <ul class="experience-box__list">
         <li class="experience-box__list-tem">
           Collaborated with sales team, programmers, and clients through all
-          steps of the website creation process from UI/UX to website launch
+          steps of the website creation process from UI/UX to website launch.
         </li>
         <li class="experience-box__list-tem">
           Advised clients on identity and strategy; worked to understand client
-          end goals and needs while also being an advocate for the end user
+          end goals and needs while also being an advocate for the end user.
         </li>
         <li class="experience-box__list-tem">
-          Established and maintained rapport with clients and team members
+          Established and maintained rapport with clients and team members.
         </li>
       </ul>
     </div>
@@ -61,11 +65,11 @@
       <ul class="experience-box__list">
         <li class="experience-box__list-tem">
           Edited video footage for use in television commercials, designed and
-          animated motion graphics for advertisements / commercials
+          animated motion graphics for advertisements / commercials.
         </li>
         <li class="experience-box__list-tem">
           Worked with supervisors and clients to produce appealing
-          advertisements
+          advertisements.
         </li>
       </ul>
     </div>

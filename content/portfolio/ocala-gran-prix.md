@@ -5,11 +5,17 @@ category: Design, Development
 role: Design, Front-end Development
 link: https://www.ocalagranprix.com/
 thumbnail: ogp/ogp-thumb.jpg
-slides: ['ogp/ogp-deviceimg.png', 'ogp/ogp-interior.jpg', 'ogp/ogp-kart-store.jpg', 'ogp/ogp-calendar.jpg']
+slides:
+  [
+    'ogp/ogp-deviceimg.png',
+    'ogp/ogp-interior.jpg',
+    'ogp/ogp-kart-store.jpg',
+    'ogp/ogp-calendar.jpg',
+  ]
 alt: Ocala Gran Prix Image
 client: Ocala Gran Prix
 tools: Brackets, Adobe Photoshop, Adobe Illustrator
-tags: HTML5, Bootstrap, CSS3, jQuery/javascript, SiteSource 3 CMS (ASP.net)
+tags: Bootstrap, CSS3, jQuery/javascript, SiteSource3 CMS (ASP.net)
 order: 8
 active: true
 ---
@@ -32,7 +38,6 @@ It was important for the site to be fast, accessible, exciting, welcoming, and e
 One huge thing Ocala Gran Prix had going for it is that they had a lot of awesome, exciting photos for me to use, so I decided to let the photography do the talking. I picked a split complementary color scheme of red, blue, and yellow, and went for a clean and trustworthy feeling as I believed it was important that their users are immediately drawn into OGP’s brand.
 
 I also wanted their most important sections to be easily visible and accessible as soon as the user visits the site. I sketched out a few different mobile and desktop low-fidelity wireframes quickly on paper, getting feedback from our internal team before starting on the design mockup in Photoshop.
-
 
 ### Bringing It All Together
 

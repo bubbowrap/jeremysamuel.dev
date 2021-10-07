@@ -23,6 +23,14 @@
       <h4 class="project-specs__title">Development</h4>
       <p class="project-specs__content">
         {{ postAttributes.tags }}
+        <a
+          v-if="postAttributes.github"
+          class="btn btn--line btn--sm"
+          :href="postAttributes.github"
+          target="_blank"
+        >
+          View Github Repo</a
+        >
       </p>
     </div>
   </div>

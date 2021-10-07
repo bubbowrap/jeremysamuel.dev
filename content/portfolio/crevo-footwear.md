@@ -9,7 +9,7 @@ slides: ['crevo/crevo-hp.jpg', 'crevo/crevo-prodpage.jpg']
 alt: Crevo Footwear Image
 client: Elan Polo International
 tools: Brackets, Adobe Photoshop, Adobe Illustrator
-tags: HTML5, CSS3, Bootstrap, jQuery/javascript, ProductCart eCommerce
+tags: CSS3, Bootstrap, jQuery/javascript, ProductCart eCommerce
 order: 4
 active: true
 ---

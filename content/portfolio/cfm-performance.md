@@ -5,11 +5,18 @@ category: Design, Development
 role: Design, Front-end Development
 link: https://www.c-f-m.com/
 thumbnail: cfm/cfm-thumb.jpg
-slides: ['cfm/cfm-home-hero.jpg', 'cfm/cfm-masonry.jpg', 'cfm/cfm-home-bottom.jpg', 'cfm/cfm-interior.jpg', 'cfm/cfm-landing-pg.jpg']
+slides:
+  [
+    'cfm/cfm-home-hero.jpg',
+    'cfm/cfm-masonry.jpg',
+    'cfm/cfm-home-bottom.jpg',
+    'cfm/cfm-interior.jpg',
+    'cfm/cfm-landing-pg.jpg',
+  ]
 alt: CFM Performance Image
 client: Central Florida Performance Parts
 tools: Brackets, Photoshop, Illustrator
-tags: HTML5, CSS3, Twitter Bootstrap, and jQuery/javascript
+tags: CSS3, Bootstrap, jQuery/javascript, ProductCart eCommerce
 order: 5
 active: true
 ---
