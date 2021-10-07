@@ -8,7 +8,7 @@ slides: ['lhmc/lhmc-deviceimg.png']
 alt: Live Healthier Marion County Image
 client: Live Healthier Marion County
 tools: Brackets, Photoshop, Illustrator
-tags: HTML5, Bootstrap, CSS3, jQuery/javascript, Wordpress
+tags: Bootstrap, CSS3, jQuery/javascript, Wordpress
 order: 9
 active: true
 ---

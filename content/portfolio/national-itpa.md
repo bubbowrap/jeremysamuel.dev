@@ -5,11 +5,12 @@ category: Design, Development
 role: Design, Front-end Development
 link: https://www.nationalitpa.com/
 thumbnail: itpa/itpa-thumb.jpg
-slides: ['itpa/itpa-hero.jpg', 'itpa/itpa-page.jpg','itpa/itpa-interior-pg.jpg']
+slides:
+  ['itpa/itpa-hero.jpg', 'itpa/itpa-page.jpg', 'itpa/itpa-interior-pg.jpg']
 alt: National ITPA image
 client: Independent Telecommunications Pioneer Association (ITPA)
 tools: Brackets, Photoshop, Illustrator
-tags: HTML5, Bootstrap, CSS3, jQuery/javascript, and SiteSource 3 CMS (ASP.net)
+tags: Bootstrap, CSS3, jQuery/javascript, SiteSource3 CMS (ASP.net)
 order: 6
 active: true
 ---
@@ -30,7 +31,6 @@ It was important for the site to be fast, engaging, easy to navigate, and easily
 ### Initial Ideas/Style Concepts
 
 One of the problems I had with ITPA is their color scheme. It was initially very difficult for me to figure out how to work with the bright yellow and baby clue. However, the organization has a long and rich history of leaders, so I decided to focus more on that antique feel and build upon that. I also wanted their most important sections to be easily visible and accessible as soon as the user visits the site. I sketched out a few different mobile and desktop low-fidelity wireframes quickly on paper, getting feedback from our internal team before starting on the design mockup in Photoshop.
-
 
 ### Bringing It All Together
 

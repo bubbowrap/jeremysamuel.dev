@@ -22,7 +22,9 @@
           >Savannah College of Art and Design</a
         >
         with my bachelor’s and have been working in the web development field
-        ever since.
+        ever since. When I'm not coding you can typically find me gaming,
+        writing the Next Great American Novel™, or trying to prevent my
+        illustration skills from atrophying.
       </p>
       <div class="skills-lists">
         <div>
@@ -65,9 +67,11 @@ export default {
           'HTML / HTML5',
           'CSS3 / SASS / BEM',
           'Javascript / JQuery',
-          'VueJS / NuxtJS',
+          'Vue / NuxtJS',
+          'React / Redux / NextJS',
           'Twitter Bootstrap',
-          'WordPress / Twig / ACF',
+          'WordPress / PHP / Twig / ACF',
+          'WordPress Gutenberg',
           'Version Control (Git)',
           'Responsive / Mobile First',
           'Cross Platform / Browser',

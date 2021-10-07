@@ -1,9 +1,9 @@
-@import "normalize";
-@import "variables";
-@import "buttons";
-@import "animations";
-@import "typography";
-@import "layout";
+@import 'normalize';
+@import 'variables';
+@import 'buttons';
+@import 'animations';
+@import 'typography';
+@import 'layout';
 
 //Base styles
 
@@ -15,36 +15,43 @@ html {
   }
 }
 
-*, *:before, *:after {
-    box-sizing: border-box;
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
 }
 
 ::selection {
-    background: $red; /* WebKit/Blink Browsers */
-    color: $white;
-  }
+  background: $red; /* WebKit/Blink Browsers */
+  color: $white;
+}
 
 *[tabindex='-1']:focus {
-    outline: 0;
+  outline: 0;
 }
 
 body {
-    background: $white;
-    color: $color-body;
-    font-size: 20px;
-    font-family: $font-family-primary;
-    font-weight: $font-normal;
-    letter-spacing: .025rem;
-    height: 100vh;
+  background: $white;
+  color: $color-body;
+  font-size: 20px;
+  font-family: $font-family-primary;
+  font-weight: $font-normal;
+  letter-spacing: 0.025rem;
+  height: 100vh;
 }
 
 .no-scroll {
-@media (max-width: $screen-md) {
-        overflow: hidden;
-        height: 100%;
-    }
+  @media (max-width: $screen-md) {
+    overflow: hidden;
+    height: 100%;
+  }
 }
 
 img {
-    max-width: 100%;
+  max-width: 100%;
+}
+
+hr {
+  border-top: thin solid rgba(19, 15, 64, 0.2);
+  margin: 2rem 0;
 }

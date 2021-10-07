@@ -9,7 +9,7 @@ slides: ['dg/dg-deviceimg.png', 'dg/dg-hero.jpg', 'dg/dg-prod-pg.jpg']
 alt: Daniel Green Image
 client: Elan Polo International
 tools: Brackets, Photoshop
-tags: HTML5, Bootstrap, CSS3, jQuery/javascript, ProductCart E-commerce System
+tags: Bootstrap, CSS3, jQuery/javascript, ProductCart eCommerce
 order: 7
 active: true
 ---

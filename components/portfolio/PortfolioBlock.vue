@@ -5,29 +5,63 @@
     data-aos-offset="0"
     data-aos-delay="100"
   >
-    <figure>
-      <a
-        :href="`/portfolio/${post.attributes.title
-          .toLowerCase()
-          .split(' ')
-          .join('-')}`"
-        class="portfolio-list-item__link"
-      >
-        <img
-          :alt="post.attributes.title"
-          :data-src="imgSrc"
-          class="portfolio-list-item__img"
-          :src="imgSrc"
-          loading="lazy"
-        />
-        <figcaption class="portfolio-list-item__title">
-          {{ post.attributes.title }}
-          <span class="portfolio-list-item__tag">{{
-            post.attributes.category.replace(', ', ' / ')
-          }}</span>
-        </figcaption>
-      </a>
+    <figure class="portfolio-list-item__figure">
+      <img
+        :alt="post.attributes.title"
+        :data-src="imgSrc"
+        :src="imgSrc"
+        loading="lazy"
+      />
+      <div class="portfolio-list-item__link-container">
+        <a
+          v-if="post.attributes.github"
+          :href="post.attributes.github"
+          target="_blank"
+          class="portfolio-list-item__link"
+        >
+          <svg viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M20.38,8.53C20.54,8.13 21.06,6.54 20.21,4.39C20.21,4.39 18.9,4 15.91,6C14.66,5.67 13.33,5.62 12,5.62C10.68,5.62 9.34,5.67 8.09,6C5.1,3.97 3.79,4.39 3.79,4.39C2.94,6.54 3.46,8.13 3.63,8.53C2.61,9.62 2,11 2,12.72C2,19.16 6.16,20.61 12,20.61C17.79,20.61 22,19.16 22,12.72C22,11 21.39,9.62 20.38,8.53M12,19.38C7.88,19.38 4.53,19.19 4.53,15.19C4.53,14.24 5,13.34 5.8,12.61C7.14,11.38 9.43,12.03 12,12.03C14.59,12.03 16.85,11.38 18.2,12.61C19,13.34 19.5,14.23 19.5,15.19C19.5,19.18 16.13,19.38 12,19.38M8.86,13.12C8.04,13.12 7.36,14.12 7.36,15.34C7.36,16.57 8.04,17.58 8.86,17.58C9.69,17.58 10.36,16.58 10.36,15.34C10.36,14.11 9.69,13.12 8.86,13.12M15.14,13.12C14.31,13.12 13.64,14.11 13.64,15.34C13.64,16.58 14.31,17.58 15.14,17.58C15.96,17.58 16.64,16.58 16.64,15.34C16.64,14.11 16,13.12 15.14,13.12Z"
+            ></path>
+          </svg>
+        </a>
+
+        <a
+          v-if="post.attributes.link"
+          :href="post.attributes.link"
+          target="_blank"
+          class="portfolio-list-item__link"
+        >
+          <svg style="width: 20px; height: 20px" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M14,3V5H17.59L7.76,14.83L9.17,16.24L19,6.41V10H21V3M19,19H5V5H12V3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V12H19V19Z"
+            />
+          </svg>
+        </a>
+        <a
+          :href="`/portfolio/${post.attributes.title
+            .toLowerCase()
+            .split(' ')
+            .join('-')}`"
+          class="portfolio-list-item__link"
+        >
+          <svg viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M20.03 12C20.03 7.59 16.41 3.97 12 3.97C7.59 3.97 3.97 7.59 3.97 12C3.97 16.41 7.59 20.03 12 20.03C16.41 20.03 20.03 16.41 20.03 12M22 12C22 17.54 17.54 22 12 22C6.46 22 2 17.54 2 12C2 6.46 6.46 2 12 2C17.54 2 22 6.46 22 12M13.54 13V16L17.5 12L13.54 8V11H6.5V13"
+            />
+          </svg>
+        </a>
+      </div>
     </figure>
+    <div class="portfolio-list-item__title">
+      {{ post.attributes.title }}
+      <span class="portfolio-list-item__tag">{{
+        post.attributes.tags.split(', ').join('&nbsp;&nbsp;&bull;&nbsp;&nbsp;')
+      }}</span>
+    </div>
   </li>
 </template>
 

@@ -25,22 +25,30 @@
       </div>
     </section>
 
-    <section
-      class="project-shots aos-init"
-      data-aos="fade-up"
-      data-aos-offset="200"
-      data-aos-delay="100"
-    >
-      <flickity ref="flickity" class="flickity" :options="flickityOptions">
-        <div v-for="(slide, i) in sliderImages" :key="i" class="carousel-cell">
-          <img
-            :src="placeholder"
-            :data-flickity-lazyload-src="slide"
-            :alt="post.attributes.alt"
-            loading="lazy"
-          />
-        </div>
-      </flickity>
+    <section class="project-shots">
+      <client-only placeholder="">
+        <flickity
+          ref="flickity"
+          class="flickity aos-init"
+          :options="flickityOptions"
+          data-aos="fade-up"
+          data-aos-offset="200"
+        >
+          <div
+            v-for="(slide, i) in sliderImages"
+            :key="i"
+            class="carousel-cell"
+          >
+            <img
+              :src="placeholder"
+              :data-flickity-lazyload-src="slide"
+              :alt="post.attributes.alt"
+              loading="lazy"
+            />
+          </div>
+        </flickity>
+        <FlickityPlaceholder #placeholder />
+      </client-only>
     </section>
 
     <section
@@ -65,9 +73,10 @@
 
 <script>
 import ProjectSpecs from '@/components/portfolio/ProjectSpecs'
+import FlickityPlaceholder from '@/components/portfolio/FlickityPlaceholder'
 
 export default {
-  components: { ProjectSpecs },
+  components: { ProjectSpecs, FlickityPlaceholder },
   async asyncData({ params }) {
     try {
       const post = await import(`@/content/portfolio/${params.slug}.md`)
@@ -113,7 +122,8 @@ export default {
 </script>
 
 <style>
-flickity {
+.flickity {
   display: block;
+  text-align: center;
 }
 </style>
