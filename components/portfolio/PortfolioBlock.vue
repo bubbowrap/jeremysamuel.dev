@@ -18,6 +18,7 @@
           :href="post.attributes.github"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="View this project on Github"
           class="portfolio-list-item__link"
         >
           <svg viewBox="0 0 24 24">
@@ -33,6 +34,7 @@
           :href="post.attributes.link"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="View live project"
           class="portfolio-list-item__link"
         >
           <svg style="width: 20px; height: 20px" viewBox="0 0 24 24">
@@ -47,6 +49,7 @@
             .toLowerCase()
             .split(' ')
             .join('-')}`"
+          aria-label="Learn more about this project"
           class="portfolio-list-item__link"
         >
           <svg viewBox="0 0 24 24">
