@@ -28,6 +28,7 @@
           class="btn btn--line btn--sm"
           :href="postAttributes.github"
           target="_blank"
+          rel="noopener noreferrer"
         >
           View Github Repo</a
         >

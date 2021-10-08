@@ -1,5 +1,5 @@
 <template>
-  <div id="hamburger-1" class="hamburger" aria-label="menu">
+  <div id="hamburger-1" class="hamburger">
     <span class="line"></span>
     <span class="line"></span>
     <span class="line"></span>

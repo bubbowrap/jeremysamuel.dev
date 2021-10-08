@@ -17,6 +17,7 @@
           v-if="post.attributes.github"
           :href="post.attributes.github"
           target="_blank"
+          rel="noopener noreferrer"
           class="portfolio-list-item__link"
         >
           <svg viewBox="0 0 24 24">
@@ -31,6 +32,7 @@
           v-if="post.attributes.link"
           :href="post.attributes.link"
           target="_blank"
+          rel="noopener noreferrer"
           class="portfolio-list-item__link"
         >
           <svg style="width: 20px; height: 20px" viewBox="0 0 24 24">
