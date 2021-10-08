@@ -59,7 +59,7 @@
     <div class="portfolio-list-item__title">
       {{ post.attributes.title }}
       <span class="portfolio-list-item__tag">{{
-        post.attributes.tags.split(', ').join('&nbsp; ;&bull; &nbsp;')
+        post.attributes.tags.split(', ').join('&nbsp; &bull; &nbsp;')
       }}</span>
     </div>
   </li>
