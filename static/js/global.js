@@ -76,7 +76,7 @@ function interactions() {
   })
 }
 function checkLoad() {
-  let timer = setInterval(() => {
+  const timer = setInterval(() => {
     if (document.querySelector('.overlay')) {
       interactions()
       clearInterval(timer)

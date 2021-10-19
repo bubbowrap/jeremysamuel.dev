@@ -21,7 +21,7 @@
           PHP, Twig, ACF, HTML, and SASS.
         </li>
         <li class="experience-box__list-tem">
-          Lead development of new websites and high-converting landing pages,
+          Led development of new websites and high-converting landing pages,
           ads, and calls to action with a focus on performance and
           accessibility.
         </li>
