@@ -18,6 +18,7 @@
           :href="post.attributes.github"
           target="_blank"
           rel="noopener noreferrer"
+          title="View this project on Github"
           aria-label="View this project on Github"
           class="portfolio-list-item__link"
         >
@@ -34,6 +35,7 @@
           :href="post.attributes.link"
           target="_blank"
           rel="noopener noreferrer"
+          title="View live project"
           aria-label="View live project"
           class="portfolio-list-item__link"
         >
@@ -49,6 +51,7 @@
             .toLowerCase()
             .split(' ')
             .join('-')}`"
+          title="Learn more about this project"
           aria-label="Learn more about this project"
           class="portfolio-list-item__link"
         >

@@ -7,9 +7,8 @@
       data-aos-delay="100"
     >
       Hi, I’m <strong class="accent">Jeremy Samuel</strong>, and I’m a front-end
-      designer. I design <span class="accent">+</span> animate
-      <span class="accent">+</span> code experiences for the web and mobile
-      devices.
+      developer. I design <span class="accent">+</span> code experiences for the
+      web and mobile devices.
     </h1>
     <a
       :href="`mailto:${$store.state.emailAddress}`"

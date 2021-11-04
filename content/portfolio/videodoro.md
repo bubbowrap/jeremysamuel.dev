@@ -1,6 +1,6 @@
 ---
 title: Videodoro
-description: A VueJS pomodoro timer with a little something extra.
+description: A Vue pomodoro timer with a little something extra.
 category: Design, Development
 role: Design, Front-end Development, Back-end Development
 link: https://videodoro.netlify.app/
@@ -17,7 +17,7 @@ slides:
 alt: Videodoro Screenshot
 client: Personal Project
 tools: Sketch, VSCode
-tags: VueJS, Buefy, SCSS, YouTubeAPI, Netlify
+tags: Vue, Buefy, SCSS, YouTubeAPI, Netlify
 order: 2
 active: true
 ---
