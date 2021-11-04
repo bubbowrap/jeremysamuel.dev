@@ -16,7 +16,7 @@ slides:
 alt: Bored.io Screenshot
 client: Personal Project
 tools: VSCode, Bored API
-tags: VueJS, Vuetify, Firebase, Netlify
+tags: Vue, Vuetify, Firebase, Netlify
 order: 3
 active: true
 ---
@@ -25,13 +25,13 @@ active: true
 
 Bored.io helps you find things to do when you're bored, and keeps track of what you've completed or might want to do in the future.
 
-I made this little project to primarily get some practice with **VueJS** and **Vuetify**, pulling data from an external api (Bored API), and storing/loading user data.
+I made this little project to primarily get some practice with **Vue** and **Vuetify**, pulling data from an external api (Bored API), and storing/loading user data.
 
 ### Development
 
 I used **Firebase's** Realtime Database to store and load data, which is incredibly useful for small things like this.
 
-On the front-end I used **VueJS** to build out the UI/functionality, _specifically_:
+On the front-end I used **Vue** to build out the UI/functionality, _specifically_:
 
 - **Vuex** for state management
 - **Vue Router** for navigation/routing

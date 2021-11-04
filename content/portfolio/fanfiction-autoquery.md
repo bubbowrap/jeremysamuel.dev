@@ -1,6 +1,6 @@
 ---
 title: Fanfiction AutoQuery
-description: Fanfiction AutoQuery lets you save and view all of your top visited queries in one central location. Built with VueJS, Vuetify, and Firebase.
+description: Fanfiction AutoQuery lets you save and view all of your top visited queries in one central location. Built with Vue, Vuetify, and Firebase.
 category: Design, Development
 role: Design, Front-end Development, Back-end Development
 link: https://ffautoquery.netlify.app/
@@ -16,7 +16,7 @@ slides:
 alt: Fanfiction AutoQuery Screenshot
 client: Personal Project
 tools: VSCode
-tags: VueJS, Vuetify, Firebase, Netlify
+tags: Vue, Vuetify, Firebase, Netlify
 order: 1
 active: true
 ---
@@ -25,7 +25,7 @@ active: true
 
 If you've spent way too much time on the fanfiction site Archive Of Our Own (AO3) like I have, you've probably run up against the issue of not being able to save your most used tags and filters. Having to go through the painstaking process of including the things you want and excluding the things you don't want gets old fast, and if you have very specific tastes setting up each search can easily take 1-2 minutes which you need to do _each time you want to read something_.
 
-This app fixes that. Save and view all of your top visited queries in one central location and get some of your precious time back. It was built using **VueJS** and **Vuetify** for the front-end development, and **Firebase** for the back-end.
+This app fixes that. Save and view all of your top visited queries in one central location and get some of your precious time back. It was built using **Vue** and **Vuetify** for the front-end development, and **Firebase** for the back-end.
 
 ### Development
 
@@ -35,7 +35,7 @@ I used **Firebase** to handle most of the back-end development. What's great is 
 - Authentication (Google)
 - Image Storage
 
-On the front-end I used **VueJS** to build out the UI/functionality, and more _specifically_:
+On the front-end I used **Vue** to build out the UI/functionality, and more _specifically_:
 
 - **Vuex** for state management
 - **Axios** to push and pull from **Firebase**
