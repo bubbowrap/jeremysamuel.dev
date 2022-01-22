@@ -25,7 +25,7 @@ active: true
 
 Project to try out the Spotify API and help users see where their true interests lie. It shows a user's Spotify stats in a bunch of neat ways.
 
-A lot of interesting things to figure out with this project. Hand designed in **Figma** and styled from the ground up with **Styled Components** solely because I felt like I didn't need a whole heavy css framework for something so relatively simple, y'know? Plus with design, if you don't use it you lose it (that's probably not actually true) and saw it as a neat opportunity to brush off the skills.
+A lot of interesting things to figure out with this project. Hand designed in **Figma** and styled from the ground up with **Styled Components** solely because I felt like I didn't need a whole heavy css framework for something so relatively simple, y'know? Plus with design, if you don't use it you lose it (that's probably not actually true) and I saw it as a neat opportunity to brush off the skills.
 
 ### Development
 
@@ -51,4 +51,4 @@ One of the more interesting things was having to rewrite the node.js server I'd 
 
 Finally, I deployed the app directly from Github with **Netlify**.
 
-Technically you can see the app at https://statlify.netlify.app, but Spotify has this whole development mode thing where I have to whitelist/add user e-mails MANUALLY for them to be able to get access, so...I guess message me with the e-mail address you use for Sptoify and I'll let you in. We'll see if they let me become a real app and I can delete this entire paragraph. Fingers crossed!
+Technically you can see the app at [https://statlify.netlify.app](https://statlify.netlify.app), but Spotify has this whole development mode thing where I have to whitelist/add user e-mails MANUALLY for them to be able to get access, so...I guess message me with the e-mail address you use for Spotify and I'll let you in. We'll see if they let me become a real app and I can delete this entire paragraph. Fingers crossed!
