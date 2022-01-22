@@ -17,7 +17,7 @@ alt: Fanfiction AutoQuery Screenshot
 client: Personal Project
 tools: VSCode
 tags: Vue, Vuetify, Firebase, Netlify
-order: 1
+order: 2
 active: true
 ---
 

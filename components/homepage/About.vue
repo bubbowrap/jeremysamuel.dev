@@ -58,6 +58,7 @@ export default {
         design: [
           'Wireframing',
           'UI Design',
+          'Figma',
           'Sketch App',
           'Photoshop',
           'Illustrator',
@@ -65,7 +66,7 @@ export default {
         ],
         development: [
           'Javascript / JQuery',
-          'Vue / NuxtJS',
+          'Vue / Vuex / NuxtJS',
           'React / Redux / NextJS',
           'HTML / HTML5',
           'CSS3 / SASS / BEM',
