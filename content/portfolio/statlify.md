@@ -8,6 +8,7 @@ github: https://github.com/bubbowrap/spotify-userspace
 thumbnail: statlify/statlify-thumb.jpg
 slides:
   [
+    'statlify/statlify-mobile-pg.jpg',
     'statlify/statlify-login-pg.png',
     'statlify/statlify-home-pg.jpg',
     'statlify/statlify-stats-pg.jpg',

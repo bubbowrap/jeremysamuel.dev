@@ -10,7 +10,7 @@ client: Live Healthier Marion County
 tools: Brackets, Photoshop, Illustrator
 tags: Bootstrap, CSS3, jQuery/javascript, Wordpress
 order: 9
-active: true
+active: false
 ---
 
 ## Project Details
