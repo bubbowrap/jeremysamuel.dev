@@ -51,4 +51,4 @@ One of the more interesting things was having to rewrite the node.js server I'd 
 
 Finally, I deployed the app directly from Github with **Netlify**.
 
-Technically you can see the app at [https://statlify.netlify.app](https://statlify.netlify.app), but Spotify has this whole development mode thing where I have to whitelist/add user e-mails MANUALLY for them to be able to get access, so...I guess message me with the e-mail address you use for Spotify and I'll let you in. We'll see if they let me become a real app and I can delete this entire paragraph. Fingers crossed!
+You can see the app at [https://statlify.netlify.app](https://statlify.netlify.app).
