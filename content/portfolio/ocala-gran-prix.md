@@ -17,7 +17,7 @@ client: Ocala Gran Prix
 tools: Brackets, Adobe Photoshop, Adobe Illustrator
 tags: Bootstrap, CSS3, jQuery/javascript, SiteSource3 CMS (ASP.net)
 order: 8
-active: true
+active: false
 ---
 
 ## Project Details
