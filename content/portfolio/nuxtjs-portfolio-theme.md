@@ -23,6 +23,7 @@ The main tools used in this site were:
 
 - **Sketch** to design the UI/UX.
 - **NuxtJS** to manage the pages/routes, along with **SASS** to build out the design from scratch.
+- **VueX** to manage sitewide state.
 - **Markdown** to maintain content.
 - **Netlify** for hosting and CI/CD deployments.
 

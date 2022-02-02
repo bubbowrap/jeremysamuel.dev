@@ -19,7 +19,6 @@
           </template>
           <template v-else>
             <h1>{{ error.statusCode }}</h1>
-            <h2 class="sub"></h2>
             <p>
               An error occurred. Who knows what happened here? Either way,
               yikes.
