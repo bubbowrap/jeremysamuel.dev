@@ -32,13 +32,13 @@ A lot of interesting things to figure out with this project. Hand designed in **
 
 The main things I used in this project are:
 
-- React
-- Typescript
-- Styled Components
-- Chart.js
-- Spotify API
-- Serverless Functions
-- Netlify
+- **React**
+- **Typescript**
+- **Styled Components**
+- **Chart.js**
+- **Spotify API**
+- **Serverless Functions**
+- **Netlify**
 
 As mentioned above I used **React** to build out the UI/functionality, and more _specifically_:
 
