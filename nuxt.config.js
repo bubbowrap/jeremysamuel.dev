@@ -9,28 +9,28 @@ export default {
     htmlAttrs: {
       lang: 'en',
     },
-    title: 'Jeremy Samuel | Front-end Designer',
+    title: 'Jeremy Samuel | Front-end Developer',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { property: 'og:url', content: 'https://jeremysamuel.dev' },
-      { property: 'og:title', content: 'Jeremy Samuel | Front-end Designer' },
+      { property: 'og:title', content: 'Jeremy Samuel | Front-end Developer' },
       {
         property: 'og:description',
         content:
-          'Jeremy Samuel is a designer and front-end developer from Orlando, FL who loves building awesome things for the web and mobile devices.',
+          'Jeremy Samuel is a front-end developer and designer from Orlando, FL who loves building awesome things for the web and mobile devices.',
       },
       { name: 'theme-color', content: '#1b1b1b' },
       {
         hid: 'description',
         name: 'description',
         content:
-          'Jeremy Samuel is a designer and front-end developer from Orlando, FL who loves building awesome things for the web and mobile devices.',
+          'Jeremy Samuel is a front-end developer and designer from Orlando, FL who loves building awesome things for the web and mobile devices.',
       },
       {
         name: 'keywords',
         content:
-          'Jeremy Samuel, Jeremy, Samuel, bubbowrap, designer, web designer, web developer, front-end designer, front-end developer, front-end engineer, javascript',
+          'Jeremy Samuel, Jeremy, Samuel, bubbowrap, front-end developer, web developer, web designer, front-end designer, front-end engineer, javascript developer',
       },
     ],
 

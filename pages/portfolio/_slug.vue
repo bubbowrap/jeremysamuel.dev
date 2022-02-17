@@ -108,7 +108,7 @@ export default {
   },
   head() {
     return {
-      title: `${this.post.attributes.title} | Jeremy Samuel | Front-end Designer`,
+      title: `${this.post.attributes.title} | Jeremy Samuel | Front-end Developer`,
       meta: [
         {
           hid: 'description',
