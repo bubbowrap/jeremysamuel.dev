@@ -1,6 +1,6 @@
 export const state = () => ({
   resumeLink: 'pdf/jeremysamuel-resume.pdf',
-  emailAddress: 'bubbowrap@gmail.com',
+  emailAddress: 'jeremysamueldev@gmail.com',
   menuItems: {
     Work: '#work',
     Experience: '#experience',

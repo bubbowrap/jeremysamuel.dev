@@ -65,7 +65,7 @@ export default {
           'Logo Design',
         ],
         development: [
-          'Javascript / JQuery',
+          'Javascript (ES6+) / JQuery',
           'Vue / Vuex / NuxtJS',
           'React / Redux / NextJS',
           'HTML / HTML5',

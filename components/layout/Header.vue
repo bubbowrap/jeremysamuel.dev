@@ -4,7 +4,7 @@
       ><img
         onerror="@/assets/img/jsamuel-logo.png"
         src="@/assets/img/jsamuel-logo.svg"
-        alt="Jeremy Samuel - Front-end Designer"
+        alt="Jeremy Samuel - Front-end Developer"
         scale="0"
     /></a>
 
