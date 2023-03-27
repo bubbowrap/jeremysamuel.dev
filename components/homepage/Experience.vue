@@ -10,10 +10,35 @@
     <div class="experience-box">
       <div class="experience-box__header">
         <div>
+          <h3 class="experience-box__title">Front-end Developer</h3>
+          <h4 class="experience-box__company">Defyned Brands</h4>
+        </div>
+        <div class="experience-box__date">March 2022 - Present</div>
+      </div>
+      <ul class="experience-box__list">
+        <li class="experience-box__list-tem">
+          Designed and built interactive tools with React, Javascript (ES5/ES6),
+          PHP, Twig, ACF, HTML, and SASS.
+        </li>
+        <li class="experience-box__list-tem">
+          Led development of new websites and high-converting landing pages,
+          ads, and calls to action with a focus on performance and
+          accessibility.
+        </li>
+        <li>
+          Collaborated with writers, marketers, and other developers to produce
+          new tools, components, and templates focused on improving the user
+          experience and increasing conversions.
+        </li>
+      </ul>
+    </div>
+    <div class="experience-box">
+      <div class="experience-box__header">
+        <div>
           <h3 class="experience-box__title">Senior Front-end Developer</h3>
           <h4 class="experience-box__company">Launch That</h4>
         </div>
-        <div class="experience-box__date">April 2017 - Present</div>
+        <div class="experience-box__date">April 2017 - March 2022</div>
       </div>
       <ul class="experience-box__list">
         <li class="experience-box__list-tem">

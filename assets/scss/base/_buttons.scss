@@ -6,6 +6,7 @@
 
 .btn--resume {
   color: $red;
+  background: 0 0;
   border: 0.25rem solid $red;
   padding: 0.5rem 2.25rem;
   text-transform: uppercase;
@@ -15,8 +16,7 @@
 
   &:hover {
     color: $white;
-
-    &:before {
+    c &:before {
       top: 0;
     }
   }
