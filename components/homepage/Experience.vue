@@ -10,10 +10,34 @@
     <div class="experience-box">
       <div class="experience-box__header">
         <div>
+          <h3 class="experience-box__title">Front-end Developer</h3>
+          <h4 class="experience-box__company">Defyned Brands</h4>
+        </div>
+        <div class="experience-box__date">March 2022 - Present</div>
+      </div>
+      <ul class="experience-box__list">
+        <li class="experience-box__list-tem">
+          Designed, built, and maintained ReactJS components for customizing
+          content and displaying customer data on headless eCommerce Shopify
+          sites.
+        </li>
+        <li class="experience-box__list-tem">
+          Collaborated across data and marketing teams to implement new
+          features, third party plugins, and applications.
+        </li>
+        <li class="experience-box__list-tem">
+          Continuously improved code quality, design, accessibility, and
+          performance across websites.
+        </li>
+      </ul>
+    </div>
+    <div class="experience-box">
+      <div class="experience-box__header">
+        <div>
           <h3 class="experience-box__title">Senior Front-end Developer</h3>
           <h4 class="experience-box__company">Launch That</h4>
         </div>
-        <div class="experience-box__date">April 2017 - Present</div>
+        <div class="experience-box__date">April 2017 - March 2022</div>
       </div>
       <ul class="experience-box__list">
         <li class="experience-box__list-tem">

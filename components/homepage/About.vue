@@ -71,6 +71,8 @@ export default {
           'HTML / HTML5',
           'CSS3 / SASS / BEM',
           'Version Control (Git)',
+          'Shopify / Liquid',
+          'Headless eCommerce',
           'WordPress / PHP / Twig / ACF',
           'WordPress Gutenberg',
           'Twitter Bootstrap',

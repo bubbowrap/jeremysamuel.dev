@@ -8,9 +8,7 @@
       />
     </ul>
     <div v-if="showMoreBtn" class="portfolio__button-container">
-      <a href="javascript:void(0)" class="btn btn--resume" @click="showMore"
-        >More Projects +</a
-      >
+      <button class="btn btn--resume" @click="showMore">More Projects +</button>
     </div>
   </div>
 </template>
