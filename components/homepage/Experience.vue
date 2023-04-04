@@ -17,18 +17,17 @@
       </div>
       <ul class="experience-box__list">
         <li class="experience-box__list-tem">
-          Designed and built interactive tools with React, Javascript (ES5/ES6),
-          PHP, Twig, ACF, HTML, and SASS.
+          Designed, built, and maintained ReactJS components for customizing
+          content and displaying customer data on headless eCommerce Shopify
+          sites.
         </li>
         <li class="experience-box__list-tem">
-          Led development of new websites and high-converting landing pages,
-          ads, and calls to action with a focus on performance and
-          accessibility.
+          Collaborated across data and marketing teams to implement new
+          features, third party plugins, and applications.
         </li>
-        <li>
-          Collaborated with writers, marketers, and other developers to produce
-          new tools, components, and templates focused on improving the user
-          experience and increasing conversions.
+        <li class="experience-box__list-tem">
+          Continuously improved code quality, design, accessibility, and
+          performance across websites.
         </li>
       </ul>
     </div>
