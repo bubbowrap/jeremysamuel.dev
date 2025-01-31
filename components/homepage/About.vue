@@ -56,9 +56,9 @@ export default {
     return {
       skills: {
         design: [
-          'Figma',
-          'UI Design',
           'Wireframing',
+          'UI Design',
+          'Figma',
           'Sketch App',
           'Photoshop',
           'Illustrator',
@@ -74,9 +74,9 @@ export default {
           'Headless eCommerce',
           'MaterialUI',
           'HTML / HTML5',
-          'CSS3 / SASS',
+          'CSS3 / SASS / BEM',
           'Version Control (Git)',
-          'WordPress / PHP / Twig',
+          'WordPress / PHP / Twig / ACF',
           'Responsive / Mobile First',
           'Performance / Accessibility',
         ],

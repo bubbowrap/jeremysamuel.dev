@@ -26,7 +26,7 @@
     >
       <li class="homepage-hero__social-item">
         <a
-          href="https://codepen.io/bubbowrap"
+          href="https://www.codepen.io/bubbowrap"
           class="homepage-hero__social-link tooltip"
           target="_blank"
           rel="noopener noreferrer"

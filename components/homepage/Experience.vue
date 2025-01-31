@@ -17,7 +17,7 @@
       </div>
       <ul class="experience-box__list">
         <li class="experience-box__list-tem">
-          Designed, built, and maintained React/Remix components for customizing
+          Designed, built, and maintained ReactJS components for customizing
           content and displaying customer data on headless eCommerce Shopify
           sites (Hydrogen/GraphQL).
         </li>

@@ -4,7 +4,7 @@
     <ul class="site-footer__social">
       <li class="site-footer__social-item">
         <a
-          href="https://codepen.io/bubbowrap"
+          href="https://www.codepen.io/bubbowrap"
           class="site-footer__social-link"
           target="_blank"
           rel="noopener noreferrer"
