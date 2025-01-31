@@ -13,13 +13,13 @@
           <h3 class="experience-box__title">Front-end Developer</h3>
           <h4 class="experience-box__company">Defyned Brands</h4>
         </div>
-        <div class="experience-box__date">March 2022 - Present</div>
+        <div class="experience-box__date">March 2022 - August 2024</div>
       </div>
       <ul class="experience-box__list">
         <li class="experience-box__list-tem">
           Designed, built, and maintained React/Remix components for customizing
           content and displaying customer data on headless eCommerce Shopify
-          sites (Hydrogen).
+          sites (Hydrogen/GraphQL).
         </li>
         <li class="experience-box__list-tem">
           Collaborated across data and marketing teams to implement new
